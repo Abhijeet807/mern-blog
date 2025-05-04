@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  height: 120vh;
+  height: 95vh;
 }
 
 .ql-editor {
